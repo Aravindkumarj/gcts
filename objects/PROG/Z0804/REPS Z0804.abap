@@ -6,3 +6,4 @@
 REPORT Z0804.
 
 Write '0804'.
+Write 'lets see how this works'.
