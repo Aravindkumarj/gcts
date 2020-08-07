@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT z0806.
 
-Write 'demo internal'.
+Write 'demo internal - fix'.
