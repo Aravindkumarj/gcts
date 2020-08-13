@@ -2,4 +2,4 @@ create-services:
 - name:   "abapEnvironmentPipeline"
   broker: "abap"
   plan:   "16_abap_64_db"
-  parameters: "{ \"admin_email\" : \"user@example.com\", \"description\" : \"System for ABAP Pipeline\" }"
+  parameters: "{ \"admin_email\" : \"aravind.kumar.jagannathan@sap.com\", \"description\" : \"System for ABAP Pipeline\" }"
