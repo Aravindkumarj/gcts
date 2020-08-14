@@ -3,7 +3,7 @@ general:
   cfOrg: '1daaf481trial'
   cfSpace: 'dev'
   cfCredentialsId: 'CF_CREDENTIALSID'
-  cfServiceInstance: 'abapEnvironmentPipeline'
+  cfServiceInstance: 'abapATC'
   cfServiceKeyName: 'jenkins_sap_com_0510'
 stages:
   Prepare System:
